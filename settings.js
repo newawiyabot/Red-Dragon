@@ -29,9 +29,9 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+94720849685'] // owner number
-global.ownername = "𝘈𝘝𝘐𝘠𝘈 Yₜ ✊🇱🇰💔💯😂" // owner name
-global.ytname = "" // yt chanel name
+global.vcardowner = ['+94740203415'] // owner number
+global.ownername = "ᴿᴵʸᴬᴸ 𝐃𝐑𝐀𝐊 🆂ʜᴀᴅᴏᴡ" // owner name
+global.ytname = "https://youtube.com/channel/UCuBaKEkyrQNnxfGJbkHBBvQ" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
@@ -47,16 +47,16 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+94720849685']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝘈𝘝𝘐𝘠𝘈 Yₜ ✊🇱🇰💔💯😂' //ur bot name
+global.owner = ['+94740203415']
+global.ownertag = '+94740203415' //your tag number
+global.botname = 'ᴿᴵʸᴬᴸ 𝐃𝐑𝐀𝐊 🆂ʜᴀᴅᴏᴡ' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "ᵣᵢYₐₗ වන්ශක්කාර 𝘈𝘝𝘐𝘠𝘈😂💯💔🇱🇰" // sticker author
+global.author = "ᴿᴵʸᴬᴸ 𝐃𝐑𝐀𝐊 🆂ʜᴀᴅᴏᴡ" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.footer = '[ᴿᴵʸᴬᴸ 𝐃𝐑𝐀𝐊 🆂ʜᴀᴅᴏᴡ ]' //
 
 //database
-global.premium = ['+94720849685'] //ur premium numbers
+global.premium = ['+94740203415'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
